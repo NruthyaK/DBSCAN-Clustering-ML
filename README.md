@@ -108,7 +108,7 @@ These are the **Python packages and modules imported in the notebook**. NumPy
 and other packages may be installed as dependencies of scikit-learn or Seaborn,
 but the notebook does not import them directly.
 
-## 🧠 DBSCAN, in plain English
+## 🧠 DBSCAN
 
 DBSCAN has two main settings:
 
